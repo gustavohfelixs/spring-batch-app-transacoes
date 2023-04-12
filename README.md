@@ -87,7 +87,7 @@ Para gravar os dados na base de dados foi criado o end-point `"/run"` - acesse e
 
 ![img_5.png](img_5.png)
 
-É possível ver isso no terminal de nossa IDE, significa que deu certo. Vamos checkar a base de dados!
+É possível ver isso no terminal de nossa IDE, significa que deu certo. Vamos checkar a base de dados! Após executar o mesmo comando `run` no navegador com o banco de dados é possível ver que os nossos dados foram para a base: 
 
 ![img_6.png](img_6.png)
 
