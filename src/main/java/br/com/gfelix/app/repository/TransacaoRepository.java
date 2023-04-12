@@ -1,6 +1,6 @@
-package com.br.gfelix.App.repository;
+package br.com.gfelix.app.repository;
 
-import com.br.gfelix.App.entity.Transacao;
+import br.com.gfelix.app.entity.Transacao;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 

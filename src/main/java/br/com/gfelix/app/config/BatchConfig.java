@@ -1,7 +1,7 @@
-package com.br.gfelix.App.config;
+package br.com.gfelix.app.config;
 
 
-import com.br.gfelix.App.entity.Transacao;
+import br.com.gfelix.app.entity.Transacao;
 import org.springframework.batch.core.Job;
 import org.springframework.batch.core.Step;
 import org.springframework.batch.core.configuration.annotation.EnableBatchProcessing;

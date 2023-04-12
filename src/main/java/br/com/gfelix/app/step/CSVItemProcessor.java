@@ -1,6 +1,6 @@
-package com.br.gfelix.App.step;
+package br.com.gfelix.app.step;
 
-import com.br.gfelix.App.entity.Transacao;
+import br.com.gfelix.app.entity.Transacao;
 import org.springframework.batch.item.ItemProcessor;
 import org.springframework.stereotype.Component;
 

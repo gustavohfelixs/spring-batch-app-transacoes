@@ -37,7 +37,7 @@ uma base de dados (H2)
 `mvn clean package`
 
 ### Executar projeto
-`mvn spring-boot:run` <br>Ou<br> `java -jar ./target/App-0.0.1-SNAPSHOT.jar` <br><br> Você também pode rodar de a classe **AppApplication** em sua IDE que está no caminho `com.br.gfelix.App.AppApplication`
+`mvn spring-boot:run` <br>Ou<br> `java -jar ./target/App-0.0.1-SNAPSHOT.jar` <br><br> Você também pode rodar de a classe **AppApplication** em sua IDE que está no caminho `br.com.gfelix.app.AppApplication`
 
 Entendendo o Projeto
 ====================

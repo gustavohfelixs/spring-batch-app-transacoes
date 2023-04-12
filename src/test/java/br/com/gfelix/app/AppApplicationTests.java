@@ -1,4 +1,4 @@
-package com.br.gfelix.App;
+package br.com.gfelix.app;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
