@@ -1,4 +1,4 @@
-package com.br.cwi.App.entity;
+package com.br.gfelix.App.entity;
 
 
 import lombok.AllArgsConstructor;

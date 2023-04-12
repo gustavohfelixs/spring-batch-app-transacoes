@@ -1,7 +1,7 @@
-package com.br.cwi.App.step;
+package com.br.gfelix.App.step;
 
-import com.br.cwi.App.entity.Transacao;
-import com.br.cwi.App.repository.TransacaoRepository;
+import com.br.gfelix.App.entity.Transacao;
+import com.br.gfelix.App.repository.TransacaoRepository;
 import org.springframework.batch.item.ItemWriter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;

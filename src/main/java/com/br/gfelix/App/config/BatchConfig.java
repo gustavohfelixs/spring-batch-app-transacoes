@@ -1,7 +1,7 @@
-package com.br.cwi.App.config;
+package com.br.gfelix.App.config;
 
 
-import com.br.cwi.App.entity.Transacao;
+import com.br.gfelix.App.entity.Transacao;
 import org.springframework.batch.core.Job;
 import org.springframework.batch.core.Step;
 import org.springframework.batch.core.configuration.annotation.EnableBatchProcessing;
@@ -18,8 +18,6 @@ import org.springframework.batch.item.file.transform.DelimitedLineTokenizer;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.core.io.FileSystemResource;
-
-import javax.sound.sampled.Line;
 
 @Configuration
 @EnableBatchProcessing
