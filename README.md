@@ -22,7 +22,7 @@ lermos arquivos "flat" como por exemplo Csv (arquivo excel).
 Neste caso iremos ler um arquivo em CSV e inputar esses dados a
 uma base de dados (H2)
 
-**Este é um projeto Básico de Spring Batch - Bons estudos! Para uma intodrução ao assunto recomendo esta [vídeo-aula](https://www.youtube.com/watch?v=6iDzOi2YWxA) e o [livro](https://github.com/gustavohfelixs/Ebook-The-Definitive-guide-to-spring-batch-modern-finite-batch-processing)**
+**Este é um projeto Básico de Spring Batch - Bons estudos! Para uma intodrução ao assunto recomendo esta [vídeo-aula] (PROJETO DE REFERÊNCIA NO LINK)(https://www.youtube.com/watch?v=6iDzOi2YWxA) e o [livro](https://github.com/gustavohfelixs/Ebook-The-Definitive-guide-to-spring-batch-modern-finite-batch-processing)**
 
 
 #### Como utilizar o projeto?
