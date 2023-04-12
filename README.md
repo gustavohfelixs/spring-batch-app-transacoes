@@ -70,16 +70,23 @@ A aplicação lê esses dados coluna a coluna, processa e joga tudo em um banco 
 ## Hands on
 Rode a aplicação com os comandos demonstrados anteriormente em  `Instale as Dependências` e digite no seu navegador http://localhost:8096/h2-console para acessar 
 a base de dados.  
+
 ![img_1.png](img_1.png)
+
 No campo JDBC Url digite `jdbc:h2:mem:mydb` e clique `connect`.
+
 ![img_3.png](img_3.png)
+
 Clique em TRANSACAO e em run para rodar o comando que inspeciona a base de dados.
+
 ![img_4.png](img_4.png)
+
 Não temos nada gravado em nossa base (ainda).
 
 Para gravar os dados na base de dados foi criado o end-point `"/run"` - acesse em http://localhost:8096/run
 
 ![img_5.png](img_5.png)
+
 É possível ver isso no terminal de nossa IDE, significa que deu certo. Vamos checkar a base de dados!
 
 ![img_6.png](img_6.png)
