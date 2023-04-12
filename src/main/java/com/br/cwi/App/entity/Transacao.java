@@ -22,6 +22,6 @@ public class Transacao {
     private String cnpjDestinatario;
     private String tipoConta;
     private Integer valor;
-    private Date dataTrans;
+    private String dataTrans;
 
 }
